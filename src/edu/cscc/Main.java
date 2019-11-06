@@ -2,7 +2,7 @@ package edu.cscc;
 
 import java.lang.Math;
 import java.util.Scanner;
-
+fvyufuffutftiu
 /**
  * @author musab fiqi
  * @version 1.0
