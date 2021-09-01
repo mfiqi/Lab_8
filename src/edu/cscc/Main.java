@@ -116,7 +116,7 @@ public class Main {
         while (inchesDouble <= 0) {
 
             try {
-                System.out.println("Enter weight(lbs): ");
+                System.out.println("Enter height(inches26): ");
                 String inchesString = input.nextLine();
                 inchesDouble = Double.parseDouble(inchesString);
                 if (inchesDouble <= 0) {
